@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__fetch__fetch",
+      "Bash(pnpm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(pnpm build:*)",
+      "mcp__chrome-devtools__list_pages",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__take_screenshot",
+      "Bash(git --version)",
+      "Bash(gh --version)",
+      "Bash(grep -E \"^d.*public$|^d.*dist$\")",
+      "Bash(ls /app/project_workspace/9158165156728832/.attachments/Shot*.png)",
+      "Bash(ls -la /app/project_workspace/9158165156728832/src/assets/Shot*.png)",
+      "Bash(cp .attachments/Shot1_1779423651533_370508.png src/assets/shot1.png)",
+      "Bash(cp .attachments/Shot2-1_1779423651563_962048.png src/assets/shot2-1.png)",
+      "Bash(cp .attachments/Shot2-2_1779423651586_613365.png src/assets/shot2-2.png)",
+      "Bash(cp .attachments/Shot3_1779423651624_989126.png src/assets/shot3.png)",
+      "Bash(cp .attachments/Shot4_1779423651663_421600.png src/assets/shot4.png)",
+      "Bash(ls -la /app/project_workspace/9158165156728832/src/assets/shot*.png)",
+      "Bash(cp \".attachments/ECHO-47 多视图.png\" \"src/assets/echo47-multiview.png\")",
+      "Bash(cp \".attachments/Echo-47 版本2.png\" \"src/assets/echo47-v2.png\")",
+      "Bash(cp \".attachments/飞船3视图.png\" \"src/assets/spaceship-3view.png\")",
+      "Bash(cp \".attachments/开头1.png\" \"src/assets/agath-opening1.png\")",
+      "Bash(cp \".attachments/开头2.png\" \"src/assets/agath-opening2.png\")",
+      "Bash(cp \".attachments/ChatGPT Image 2026年5月14日 17_04_22.png\" \"src/assets/station-view1.png\")",
+      "Bash(cp \".attachments/ChatGPT Image 2026年5月14日 17_23_25.png\" \"src/assets/station-view2.png\")",
+      "Bash(cp \".attachments/ChatGPT Image 2026年5月14日 17_30_51.png\" \"src/assets/station-view3.png\")",
+      "Bash(ls -la src/assets/station-*.png)"
+    ]
+  }
+}
