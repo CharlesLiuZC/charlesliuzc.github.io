@@ -113,6 +113,12 @@ public
 tmp/
 temp/
 
+# Uploaded attachments
+.attachments/
+
+# Vite cache
+.vite/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
