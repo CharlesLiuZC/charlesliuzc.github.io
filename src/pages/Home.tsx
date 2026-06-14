@@ -31,7 +31,7 @@ import {
   Play,
 } from 'lucide-react';
 import avatarImg from '../assets/avatar.png';
-import aboutAvatarImg from '../assets/about-avatar.jpg';
+import aboutAvatarImg from '../assets/证件照（自然）.png';
 import storyboardImg from '../assets/character-design.png';
 import hs6Thumbnail from '../assets/shot5.png';
 
